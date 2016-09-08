@@ -6,5 +6,6 @@ public class Arreglo{
 		//en esta declaracion todos serian un arreglo.
 		char [] valors, z,w;
 		valors= new char[x];
+System.out.println();
 	}
 }
